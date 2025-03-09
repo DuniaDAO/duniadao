@@ -31,7 +31,7 @@ DuniaDAO is designed for freelancers and businesses worldwide, with a focus on e
 
 Stay updated and join our growing community:
 
-- Twitter: [@DuniaDAO](#)
+- X/Twitter: [@DuniaDAO](#)
 - Discord: [Join Us](#)
 - Website: [www.duniadao.xyz](#)
 
