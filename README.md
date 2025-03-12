@@ -1,13 +1,6 @@
 
 
-## Features
 
-- **Decentralized Marketplace**: Connect with clients and freelancers without intermediaries.
-- **Smart Contracts**: Ensure secure and transparent transactions.
-- **Token Economy**: Utilize our native token for payments and rewards.
-- **Reputation System**: Build trust through a decentralized reputation system.
-
-## Target Market
 
 DuniaDAO is designed for freelancers and businesses worldwide, with a focus on emerging markets, particularly in Africa. Our goal is to provide accessible, secure, and efficient freelancing opportunities while enabling seamless cross-border payments.
 
