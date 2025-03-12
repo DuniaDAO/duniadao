@@ -73,7 +73,7 @@ DuniaDAO operates on a sustainable and decentralized business model:
 Stay updated and be part of the future of freelancing:  
 
 📢 **Twitter/X:** [@DuniaDAO](https://twitter.com/DuniaDAO)  
-💬 **Discord:** [Join Us](https://discord.gg/duniadao)  
+💬 **Discord:** [Join Us](https://discord.gg/DU8sgTgK9r)  
 🌐 **Website:** [www.duniadao.com](https://www.duniadao.com)  
 
 🚀 **DuniaDAO is on a mission to redefine freelancing in the Web3 era.**  
