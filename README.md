@@ -2,16 +2,7 @@
 
 
 
-DuniaDAO is designed for freelancers and businesses worldwide, with a focus on emerging markets, particularly in Africa. Our goal is to provide accessible, secure, and efficient freelancing opportunities while enabling seamless cross-border payments.
 
-## Revenue Model
-
-- **Transaction Fees**: A small fee on completed transactions.
-- **Premium Subscriptions**: Exclusive features for freelancers and clients.
-- **Token Utility**: Fees and staking mechanisms within the platform.
-- **Advertising & Partnerships**: Collaborations with businesses targeting freelancers.
-
-## Roadmap
 
 - **Phase 1**: Launch landing page and waitlist.
 - **Phase 2**: Develop core marketplace features and integrate smart contracts.
