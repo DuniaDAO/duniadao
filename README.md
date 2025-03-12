@@ -1,6 +1,4 @@
-# DuniaDAO
 
-Welcome to DuniaDAO, a Web3 marketplace for freelancers. Our platform leverages blockchain technology to create a decentralized space for freelancers and clients to connect and collaborate. DuniaDAO is built on the Polygon network, ensuring fast and low-cost transactions.
 
 ## Features
 
