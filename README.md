@@ -74,7 +74,14 @@ Stay updated and be part of the future of freelancing:
 
 📢 **Twitter/X:** [@DuniaDAO](https://twitter.com/DuniaDAO)  
 💬 **Discord:** [Join Us](https://discord.gg/DU8sgTgK9r)  
-🌐 **Website:** [www.duniadao.com](https://www.duniadao.com)  
+🌐 **Website:** [www.duniadao.com](https://www.duniadao.com) 
+
+## Join the DuniaDAO Waitlist 🚀  
+
+Be among the first to access DuniaDAO, the Web3 freelance marketplace!  
+
+👉 [Join the Waitlist](https://succulent-gymnast-76c.notion.site/1b68b98c8d89803c8c7ffd31d1bdafd9?pvs=105)  
+
 
 🚀 **DuniaDAO is on a mission to redefine freelancing in the Web3 era.**  
 **Join us in building a decentralized future!** 💡  
